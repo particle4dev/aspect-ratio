@@ -1,7 +1,11 @@
 coverage
 src
+.eslintignore
+.eslintrc.js
 .gitignore
 .git
 .editorconfig
-jest.config.js
+.travis.yml
+tsconfig.json
+tsconfig.jest.json
 *.config.js
